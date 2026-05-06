@@ -62,4 +62,3 @@ streamlit run app.py
 
 Upload a CSV that has the same feature columns as the dataset. It can include `customerID` and/or `Churn` (the app will ignore them for prediction).
 
->>>>>>> 60b8d1da7275ecfe548860d2249a3e0e853f15a1
